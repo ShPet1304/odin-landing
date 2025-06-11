@@ -1,7 +1,7 @@
 # odin-landing Page
 
 This is a landing pages designed to showcase my skills learnt from The Odin Project foundations.
-I've build it on HTML and CSS, focusing on a clean user experience.
+I've built it on HTML and CSS, focusing on a clean user experience.
 
 ## Technologies Used
 * **HTML5**: for structuring the content.
